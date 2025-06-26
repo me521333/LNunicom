@@ -163,3 +163,19 @@ IPTV5＋(轮播),rtp://232.0.0.119:1234
 央广购物,rtp://232.0.0.240:1234
 聚鲨环球精选,rtp://232.0.0.207:1234
 优购物,rtp://232.0.0.250:1234
+
+海外频道,#genre#
+18台,http://bx.757888.xyz/api.php?id=18
+TVB Plus,http://bx.757888.xyz/api.php?id=tvbp
+天映經典頻道,http://bx.757888.xyz/api.php?id=tyjd
+明珠台,http://bx.757888.xyz/api.php?id=mz
+無線新聞台,http://bx.757888.xyz/api.php?id=wxxw
+美亞電影台,http://bx.757888.xyz/api.php?id=meiya
+翡翠台,http://bx.757888.xyz/api.php?id=fct
+鳳凰中文,http://bx.757888.xyz/api.php?id=fhzw
+鳳凰資訊,http://bx.757888.xyz/api.php?id=fhzx
+鳳凰香港,http://bx.757888.xyz/api.php?id=fhhk
+中國電影頻道,http://bx.757888.xyz/api.php?id=zgdy
+中天新聞台,http://bx.757888.xyz/api.php?id=ztxw
+東森電影,http://bx.757888.xyz/api.php?id=dsdy
+龍華電影,http://bx.757888.xyz/api.php?id=lhdy
