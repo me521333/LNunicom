@@ -167,15 +167,15 @@ IPTV5＋(轮播),rtp://232.0.0.119:1234
 海外频道,#genre#
 18台,http://bx.757888.xyz/api.php?id=18
 TVB Plus,http://bx.757888.xyz/api.php?id=tvbp
-天映經典頻道,http://bx.757888.xyz/api.php?id=tyjd
+天映经典频道,http://bx.757888.xyz/api.php?id=tyjd
 明珠台,http://bx.757888.xyz/api.php?id=mz
-無線新聞台,http://bx.757888.xyz/api.php?id=wxxw
-美亞電影台,http://bx.757888.xyz/api.php?id=meiya
+无线新闻台,http://bx.757888.xyz/api.php?id=wxxw
+美亞电影台,http://bx.757888.xyz/api.php?id=meiya
 翡翠台,http://bx.757888.xyz/api.php?id=fct
-鳳凰中文,http://bx.757888.xyz/api.php?id=fhzw
-鳳凰資訊,http://bx.757888.xyz/api.php?id=fhzx
-鳳凰香港,http://bx.757888.xyz/api.php?id=fhhk
-中國電影頻道,http://bx.757888.xyz/api.php?id=zgdy
-中天新聞台,http://bx.757888.xyz/api.php?id=ztxw
-東森電影,http://bx.757888.xyz/api.php?id=dsdy
+凤凰中文,http://bx.757888.xyz/api.php?id=fhzw
+凤凰资讯,http://bx.757888.xyz/api.php?id=fhzx
+凤凰香港,http://bx.757888.xyz/api.php?id=fhhk
+中国电影频道,http://bx.757888.xyz/api.php?id=zgdy
+中天新闻台,http://bx.757888.xyz/api.php?id=ztxw
+东森电影,http://bx.757888.xyz/api.php?id=dsdy
 龍華電影,http://bx.757888.xyz/api.php?id=lhdy
